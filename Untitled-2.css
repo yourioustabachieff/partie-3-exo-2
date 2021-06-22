@@ -11,7 +11,7 @@ nav ul li{
   display: inline-block;  
 }
 
-/* On screens that are 992px or less, set the background color to blue */
+
 @media screen and (max-width: 992px) {
     nav ul li {
       display: block;
